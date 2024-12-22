@@ -1,7 +1,9 @@
-Name: TVBS亚洲, URL: http://38.64.72.148/hls/modn/list/4005/playlist.m3u8, Date: None, Resolution: None, Response Time: 109ms
-Name: 广东体育, URL: http://218.13.170.98:9901/tsfile/live/0019_1.m3u8, Date: None, Resolution: None, Response Time: 2916ms
-Name: 凤凰资讯, URL: https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8, Date: None, Resolution: None, Response Time: 2296ms
-Name: 凤凰中文, URL: https://k44991.kylintv.tv/live/pxna_iphone.m3u8, Date: None, Resolution: None, Response Time: 2350ms
-Name: 广州竞赛, URL: https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca, Date: None, Resolution: None, Response Time: 132870ms
-Name: CCTV-11, URL: http://111.61.236.247:9081/hls/11/index.m3u8, Date: None, Resolution: None, Response Time: 613ms
-Name: 甘肃卫视, URL: http://111.61.236.247:9081/hls/54/index.m3u8, Date: None, Resolution: None, Response Time: 615ms
+Name: TVBS亚洲, URL: http://38.64.72.148/hls/modn/list/4005/playlist.m3u8, Date: None, Resolution: None, Response Time: 100ms
+Name: 广东体育, URL: http://218.13.170.98:9901/tsfile/live/0019_1.m3u8, Date: None, Resolution: None, Response Time: 1508ms
+Name: 江门侨乡生活, URL: http://www.namewee.xyz/gudou.php?id=jiangmenyitao_1500, Date: None, Resolution: None, Response Time: 5666ms
+Name: 佛山公共, URL: http://www.namewee.xyz/gudou.php?id=foshangonggongHD_4500, Date: None, Resolution: None, Response Time: 5668ms
+Name: 凤凰资讯, URL: https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8, Date: None, Resolution: None, Response Time: 1764ms
+Name: 凤凰中文, URL: https://k44991.kylintv.tv/live/pxna_iphone.m3u8, Date: None, Resolution: None, Response Time: 1825ms
+Name: 广州竞赛, URL: https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca, Date: None, Resolution: None, Response Time: 131494ms
+Name: 甘肃卫视, URL: http://111.61.236.247:9081/hls/54/index.m3u8, Date: None, Resolution: None, Response Time: 621ms
+Name: CCTV-11, URL: http://111.61.236.247:9081/hls/11/index.m3u8, Date: None, Resolution: None, Response Time: 639ms
