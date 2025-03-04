@@ -1,4 +1,5 @@
 广东频道,#genre#
+江门综合,http://www.namewee.xyz/gudou.php?id=jiangmenzongheHD
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 央视频道,#genre#
 卫视频道,#genre#
